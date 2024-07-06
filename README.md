@@ -1,5 +1,5 @@
 ## Hi there 👋 Myself Mahesh !
-**Fresher**
+
 <img align="right" width="370" height="290" src="https://github.com/Maheee6902/Maheee6902/blob/main/74pZ.gif">
 
  Ex-Data Analytics Intern @ Virtusa Consulting Services Pvt. Ltd.
