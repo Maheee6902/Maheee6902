@@ -3,7 +3,7 @@
 
 ### *Ex-Data Analytics Intern @ **Virtusa Consulting Services Pvt. Ltd.***
  
-*Currently Looking for jobs requiring following skills: **Python**, **PostgreSQL**, **Numpy**, **Pandas**, **Seaborn**, **Matplotlib**, **Microsoft Excel**, **Power BI** & **Descriptive Statistics**.I have completed a 3-month internship at Virtusa Consulting Services Private Limited in the domain of Data Science & Analytics*
+*Currently Looking for jobs requiring following skills: **Python**, **PostgreSQL**, **Numpy**, **Pandas**, **Seaborn**, **Matplotlib**, **Microsoft Excel**, **Power BI** & **Descriptive Statistics**. I have completed a 3-month internship at Virtusa Consulting Services Private Limited in the domain of Data Science & Analytics*
 
 - 🔭 Here's my [Portfolio.](https://maheee6902.github.io/Portfolio-Projects/)                                            
 - 📫 How to reach me :
