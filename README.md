@@ -4,6 +4,7 @@
 
 <img align="right" width="370" height="290" src="https://github.com/Maheee6902/Maheee6902/blob/main/74pZ.gif">
 
+
 *Currently Looking for jobs requiring following skills: **Python**, **PostgreSQL**, **Numpy**, **Pandas**, **Seaborn**, **Matplotlib**, **Microsoft Excel**, **Power BI** & **Descriptive Statistics**. I have completed a 3-month internship at Virtusa Consulting Services Private Limited in the domain of Data Science & Analytics*
 
 - 🗃️ Here's my [Portfolio.](https://github.com/Maheee6902/-DA-Projects)                                            
