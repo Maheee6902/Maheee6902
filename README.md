@@ -19,3 +19,8 @@
 
 ### IDE and Tools I Use
 <img width="50" height="50" src="https://img.icons8.com/color/50/google-colab.png" alt="google-colab"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img width="50" height="50" src="https://img.icons8.com/fluency/50/jupyter.png" alt="jupyter"/> <img width="50" height="50" src="https://img.icons8.com/color/50/power-bi.png" alt="Power BI"/> <img width="50" height="50" src="https://img.icons8.com/color/50/microsoft-excel-2019--v1.png" alt="Microsoft Excel"/> <img width="50" height="50" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/50/external-statistics-addiction-flaticons-lineal-color-flat-icons.png" alt="Statistics"/> 
+
+---
+
+![My Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maheee6902&theme=github_dark)
+
