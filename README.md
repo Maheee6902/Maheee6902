@@ -7,7 +7,7 @@
 *Currently Looking for jobs requiring following skills: **Python**, **PostgreSQL**, **Numpy**, **Pandas**, **Seaborn**, **Matplotlib**, **Microsoft Excel**, **Power BI** & **Descriptive Statistics**. I have completed a 3-month internship at Virtusa Consulting Services Private Limited in the domain of Data Science & Analytics*
 
 - 🗃️ Here's my [Portfolio.](https://github.com/Maheee6902/-DA-Projects)
-- 📃 Here's my [Resume.](https://drive.google.com/file/d/1n7mpDig7AC6MkmOVNxe2cI1b-mtd2e8H/view)                                      
+- 📃 Here's my [Resume.](https://drive.google.com/file/d/1n7mpDig7AC6MkmOVNxe2cI1b-mtd2e8H/view?usp=drive_link)                                      
 - 📫 How to reach me :
 <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mahesh-ravi-249298112/)      
 
