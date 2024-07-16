@@ -1,4 +1,5 @@
 ## Hi there 👋 Myself Mahesh !
+![](https://komarev.com/ghpvc/?username=Maheee6902&color=brightgreen&style=plastic)
 
 <img align="right" width="370" height="290" src="https://github.com/Maheee6902/Maheee6902/blob/main/74pZ.gif">
 
