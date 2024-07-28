@@ -15,7 +15,7 @@
 
 ## Licenses/Certfications/Badges 
 - 🎓 [PCAP – Certified Associate in Python Programming](https://www.credly.com/badges/5d78d731-6061-41f7-9b61-a684037f4c9d/linked_in_profile)
-- ⭐ 4-Star Badge in SQL : [Hackerrank](https://www.hackerrank.com/profile/maheshravi6902)
+- ⭐️5 Star - Gold Level SQL Badge : [Hackerrank](https://www.hackerrank.com/profile/maheshravi6902)
 ## 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"  alt="Pythpn"/><img width="50" height="50" src="https://img.icons8.com/color/50/postgreesql.png" alt="PostgreSQL"/> <img width="50" height="50" src="https://img.icons8.com/color/50/numpy.png" alt="Numpy"/> <img width="50" height="50" src="https://img.icons8.com/color/50/pandas.png" alt="Pandas"/> <img width="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB9-WZMceo9J8L6v_UwEg35UBDJQQCEFjb1w&s" alt="Matplotlib"/> <img width="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsZzYW4vSHL6u-h-F9nZge4rfvScSMU6CWBA&s" alt="Seaborn"/>
