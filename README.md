@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Maheee6902&color=blueviolet&style=plastic" alt="Profile Views" />
 </p>
 
-<img align="right" width="370" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGIyYmZiNmQzMzM3YjYxN2E4YjM3MjI3NjJiMzMzMzQ3M2ZkMzM4YSZlcD12MV9pbnRlcm5hbF9naWZzX3NlYXJjaCZjdD1n/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Cybersecurity GIF">
+<img align="right" width="370" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJpZTNlaWZ2Z3BrY2pxNXplNDNzMmJlMTI3MDhncW1yc2JtbXIzZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/077i6AULCXc0FKTj9s/giphy.gif" alt="Cybersecurity GIF">
 
 ### *Cybersecurity M.Tech Student | Aspiring SOC & DFIR Analyst | Ex-Data Analyst*
 
@@ -36,7 +36,6 @@
 
 **Cybersecurity, Networking & Systems** <p align="left">
   <img src="https://skillicons.dev/icons?i=kali,linux,bash,network" alt="Kali, Linux, Bash, Network" />
-  <img height="48" width="48" src="https://img.icons8.com/color/48/wireshark.png" alt="Wireshark"/>
   <br>
   <i>Wireshark • tcpdump • tshark • Burp Suite • VirtualBox • ZTNA • OSI & TCP/IP • Cryptography (RSA/ECC)</i>
 </p>
